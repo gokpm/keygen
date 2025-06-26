@@ -1,4 +1,4 @@
-module github/com/gokpm/go-keygen
+module github/com/gokpm/keygen
 
 go 1.24.4
 
